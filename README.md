@@ -2,9 +2,11 @@
 
 Details will be disclosed after coordinated disclosure.
 
-Status:
-- Reported: July 26, 2025
-- No response from vendor (230+ days)
-- CVE request submitted
+## Disclosure Timeline
 
-A full technical write-up and proof of concept will be published after disclosure is complete.
+- **July 26, 2025** — Initial vulnerability report sent to Instamojo (bugbounty@instamojo.com)
+- **Follow-ups** — Multiple follow-up attempts made (no response)
+- **March 2026** — No response after 230+ days
+- **Status** — CVE request submitted under coordinated disclosure
+
+Proof of contact available upon request.
